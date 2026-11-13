@@ -19,7 +19,7 @@
 | P3 | LangGraph 原理与重写 | 检查点、人工审批、流式事件 | 未开始 |
 | P4 | RAG：法规与审查规则库 | 混合检索 + 重排，结论带引用 | 未开始 |
 | P5 | 工具、MCP 与多 agent | MCP server + 单/多 agent 对比 | 未开始 |
-| P6 | 评测与执行轨迹 | Langfuse + LLM-as-judge + 回归报告 | 未开始 |
+| P6 | 评测与执行轨迹 | LangSmith 轨迹 + LLM-as-judge + 回归报告 | 未开始 |
 | P7 | 上线 | API、SSE、前端、安全、部署 | 未开始 |
 | P8 | 作品集 | 文档、演示视频、技术文章 | 未开始 |
 
